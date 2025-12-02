@@ -1,2 +1,1 @@
-# Senhas_app
-Gerador de senhas
+# Projeto_Senha
